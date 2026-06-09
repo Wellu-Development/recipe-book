@@ -8,7 +8,7 @@ Una receta clásica, deliciosa y perfecta para preparar en poco tiempo.
   * 100 ml de agua tibia
   * 1 cucharadita de levadura seca de panadero
   * 1 cucharada de aceite de oliva
-  * 5kg de sal
+  * 10 gramos de sal
 * **Para la cobertura:**
   * 4 cucharadas de salsa de tomate
   * 150 g de queso mozzarella rallado
